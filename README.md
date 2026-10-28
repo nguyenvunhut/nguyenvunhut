@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nguyenvunhut/nguyenvunhut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nguyễn Vũ Nhựt
 
-Here are some ideas to get you started:
+**Sinh viên chuyên ngành Xử lý dữ liệu · FPT Polytechnic**<br>
+Hồ Chí Minh, Việt Nam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Tôi yêu thích biến dữ liệu thành những phân tích rõ ràng và các giải pháp hữu ích — từ xây dựng quy trình ETL đến khám phá dữ liệu và ứng dụng học máy.*
+
+</div>
+
+---
+
+### Một vài dự án
+
+- [Solar Energy](https://github.com/nguyenvunhut/solar-engergy) — phân tích, dự báo sản lượng điện mặt trời.
+- [Cardiovascular Disease Factors](https://github.com/nguyenvunhut/Cardiovascular_Disease_Factors) — ETL và phân tích dữ liệu sức khỏe.
+- [Olympics Games ETL](https://github.com/nguyenvunhut/Olympics-Games-ETL-project) — dự án xử lý dữ liệu Olympic với SQL.
+
+---
+
+**Quan tâm:** Data Engineering · Phân tích dữ liệu · Machine Learning
